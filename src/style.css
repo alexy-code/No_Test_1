@@ -1,0 +1,32 @@
+p{
+    background-color: #0affa5;
+}
+
+#p2{background-color: gold;
+    font-weight: bold;
+
+}
+p{
+    background-color: deeppink;
+}
+#p2 {font-style: italic}
+h2{
+    background-color: chartreuse;
+}
+
+.box1{
+    border: 3px solid black;
+}
+
+.small{
+    font-size: 12px;
+}
+
+.big{
+    font-size: 50px;
+}
+/*Селектор звездочка */
+
+* {
+    text-align: center;
+}
